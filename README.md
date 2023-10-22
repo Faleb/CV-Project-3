@@ -1,5 +1,7 @@
 # CV-Project-3
-Visualization of "Global Crypto Currency Price Database" via Power BI.
+A project for my CV demonstrating skills working with Microsoft Power BI. I used the "Global Crypto Currency Price Database" from Kaggle to make a Crypto Dashboard of over 6000 cryptocurrencies. I used SQL Server database with these data from my previous project to import them in Power BI.
+
+The report is too big for GitHub, so it can be found on [this link](https://drive.google.com/file/d/1N5mEF3L1kKqXHA9EYY4HP_xTH67cZcw8/view?usp=sharing).
 
 ![image](https://i.imgur.com/HpnOdqN.png)
 ![image](https://i.imgur.com/d6vi919.png)
